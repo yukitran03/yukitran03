@@ -2,4 +2,4 @@
 <h3 align="center">welcome to my GitHub profile ☆</h3>
 
 <p align="center">software engineer · blockchain engineer · IT consultant</p>
-<p align="center">building on Sui · Walrus · Solana · NEAR</p>
+<p align="center">building on Sui · Walrus · Solana</p>
